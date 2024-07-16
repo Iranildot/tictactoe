@@ -9,9 +9,13 @@ This is a simple Tic-Tac-Toe game implemented in Python with Tkinter. The game a
   - **Player vs Computer:** A human player plays against a basic AI.
   - **Computer vs Player:** The AI plays against a human player.
 
-- **Settings:**
-  - **Choose between difficulties:** Easy, Medium, Hard.
-  - **Select symbols for players:** X vs O or O vs X.
+- **Game difficulty**
+  - Easy;
+  - Medium;
+  - Hard.
+- **Player symbols** 
+  - X vs O 
+  - or O vs X.
   - Light and dark themes for the interface.
  
   ![settings](https://github.com/user-attachments/assets/30dbadb2-6244-496b-b1fe-9795337289ab)
