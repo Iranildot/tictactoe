@@ -6,19 +6,19 @@ This is a simple Tic-Tac-Toe game implemented in Python with Tkinter. The game a
 
 - **Game Modes:**
 
-  - **Player vs Player:** Two human players compete against each other.
+  - **Player vs Player** Two human players compete against each other.
   - **Player vs Computer:** A human player plays against a basic AI.
   - **Computer vs Player:** The AI plays against a human player.
 
 - **Game difficulty**
 
-  - Easy;
-  - Medium;
-  - Hard.
+  - Easy
+  - Medium
+  - Hard
 
 - **Player symbols** 
   - X vs O 
-  - or O vs X.
+  - or O vs X
 
 - **History**
 
@@ -27,7 +27,8 @@ This is a simple Tic-Tac-Toe game implemented in Python with Tkinter. The game a
   - To track the players scores
 
 - **Themes**
-  - Light and dark themes for the interface.
+
+  - Light and dark themes for the interface
 
 - **Reset**
   
