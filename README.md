@@ -81,9 +81,9 @@ This is a simple Tic-Tac-Toe game implemented in Python with Tkinter. The game a
 
 The history shows to the user the follwing past games data:
 
-- which player won the game (player, computer) or show tie in case no player wins the game;
+- which player won the game (player or computer) or show tie in case no player wins the game
 - the symbol that the winner was using
-- the type of game
+- the game mode
 - the spent time of that game
 - and the game difficulty
 
